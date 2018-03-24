@@ -45,9 +45,9 @@ Version.02
 
 ### 역할분담
 - 개발환경 : 공통(만나서 같이)
-- 크롤링 : 시영
-- FrontEnd : 선오
-- DB 설계 : 선오
+- 크롤링 : @ohahohah
+- FrontEnd : @kimsunoh
+- DB 설계 : @kimsunoh
 - 기술트렌드 분석
 - 인재상,직무 키워드 분석 
 
