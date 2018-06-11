@@ -16,8 +16,22 @@
 ### 개발환경
 - 서버구성 : AWS EC2(Amazon Linux), NginX
 - DB : postgreSQL
-- Web : SpringBoot, Java8, Javascript 
+- Web : SpringBoot, Java8, Javascript(Vue.js)
 - scrapping : python (spider)
+
+### 관련 리포지토리
+- [페이지 화면 vue.js](https://github.com/pro00er/projobsearcher-vue)
+- [scraping](https://github.com/pro00er/projobsearcher_scraping)
+
+### 역할
+- 개발환경(AWS) : @ohahohah @kimsunoh @RudiaMoon @jaddue
+- scraping : @ohahohah @RudiaMoon
+- FrontEnd : @kimsunoh @jaddue
+- DB 설계 : @kimsunoh @ohahohah @RudiaMoon
+
+### 진행로그
+- 2018/05/24 서버구성(AWS), 기초 DB 설계
+- 2018/06/10 ~ 기술에 익숙하지 않음. 각 파트별로 학습기간을 가지기로 함
 
 ---------------------
 
